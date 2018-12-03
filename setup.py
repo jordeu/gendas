@@ -9,5 +9,5 @@ setup(
     author='Jordi Deu-Pons',
     author_email='jordi@jordeu.net',
     description='Flexible and powerful genomic data manipulation library for Python',
-    requires=['configobj', 'pathos', 'pytabix', 'bgdata', 'intervaltree', 'tqdm', 'click']
+    install_requires=['configobj', 'pathos', 'pytabix==0.0.2', 'bgdata', 'intervaltree', 'tqdm', 'click']
 )

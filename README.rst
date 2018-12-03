@@ -22,11 +22,11 @@ Installation
 
 Install the latest release using pip::
 
-        pip install git+https://github.com/jordeu/gendas/archive/0.1.tar.gz
+        pip install https://github.com/jordeu/gendas/archive/0.1.tar.gz
 
 Or the development version::
 
-        pip install git+https://github.com/jordeu/gendas/archive/master.tar.gz
+        pip install git+https://github.com/jordeu/gendas
 
 
 .. note::
