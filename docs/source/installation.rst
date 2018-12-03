@@ -1,11 +1,7 @@
 Installation
 ============
 
-Install the latest release using pip::
-
-        pip install https://github.com/jordeu/gendas/archive/0.1.tar.gz
-
-Or the development version::
+Install the development version using pip::
 
         pip install git+https://github.com/jordeu/gendas
 
