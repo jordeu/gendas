@@ -38,7 +38,7 @@ Or the development version::
 Usage
 -----
 
-Check our example notebooks to learn how to use it. And browse the current partial documentation at readthedocs.
+Check our `example scripts and notebooks <examples>`_ to learn how to use it. And browse the documentation at `readthedocs <https://gendas.readthedocs.io/en/latest/introduction.html>`_.
 
 
 License
