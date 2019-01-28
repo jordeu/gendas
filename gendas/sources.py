@@ -264,7 +264,7 @@ class IntervalTreeSource(GendasSource):
 
         return self.header.index(label)
 
-    def __iter__(self):
+    def __iter__(self, p=None):
         with gzip.open(self.filename, 'rt') as fd:
             reader = csv.reader(fd, delimiter='\t')
             for r in reader:
